@@ -1,0 +1,14 @@
+{
+    "categoryId": "1434761191724421234",
+    "logChannelId": "1434761308330528838",
+    "staffRoleIds": [
+        "1434761539755315200"
+    ],
+    "ticketTypes": [
+        {
+            "value": "parceria",
+            "label": "Parceria",
+            "emoji": "🤚🏽"
+        }
+    ]
+}
