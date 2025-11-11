@@ -1,4 +1,11 @@
 {
+  "name": "meu-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "discord.js": "^14.24.2",
     "dotenv": "^17.2.3",
